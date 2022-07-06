@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+.main{
+    height: 100vh;
+    background-size: cover;
+    
+    background-position: center;
+    background-image:  url('http://traversymedia.com/downloads/assets/beachshowcase.jpg');
+    color: #926239;
+    font-family: sans-serif;
+}
+.main h1{
+    padding-top: 20%;
+    font-size: 50px;
+}
+
+.main p{
+    font-size: 22px;
+}
+
+.button{
+    display: inline-block;
+    border: 1px solid #926239;
+    color: #926239;
+    font-size: 24px;
+    padding: 15px 20px;
+    border-radius: 20px;
+    margin: 30px;
+    background-color: aquamarine;
+    font-weight: bold;
+}
+
+.main .button:hover{
+    background-color: red;
+    color: black;
+}
+.p{
+    padding: 15px;
+    background-color: #926239;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.p-w{
+    padding: 15px;
+    color: #926239;
+    font-family: sans-serif;
+    font-size: 20px;
+    
+}
+
+
+.p-s{
+    background-color: #926239;
+    width: 33%;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 15px;
+    color: #fff;
+}
+
+.o{
+    
+    background-color: #fff;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    width: 33%;
+    color: #926239;
+    border: 5px solid #926239;
+    
+}
+
+.sa{
+    background-color: #926239;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    width: 34%;
+    color: #fff;
+}
+.hepsi{
+    display: inline-flex;
+}
